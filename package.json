@@ -1,0 +1,19 @@
+{
+  "name": "mandatory_db",
+  "version": "1.0.0",
+  "description": "nodejs_mongodb_api",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monica Toader",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
